@@ -1,0 +1,3 @@
+/Users/calebbeckering/TestFile/githubTest/testProject/cmake-build-debug/CMakeFiles/testProject.dir
+/Users/calebbeckering/TestFile/githubTest/testProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/calebbeckering/TestFile/githubTest/testProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
